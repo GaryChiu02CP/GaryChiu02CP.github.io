@@ -1,0 +1,26 @@
+body {
+    font-size: 14px;
+}
+
+p {
+  color: #000;
+}
+
+h1 {
+  color: #000;
+}
+
+.titles {
+  color: #000;
+}
+
+p.title {
+  font-style: italic;
+  font-weight: 500;
+  font-size: 16px;
+}
+
+h1#main-title {
+  color: red;
+  background-color: blue;
+}
